@@ -1,0 +1,135 @@
+{
+    "5fb90151db4f3": {
+        "postID": "post1",
+        "title": "Shitpost",
+        "description": "Some random shit",
+        "username": "realkrazyxl",
+        "subreddit": "r\/randomshit",
+        "datetime": "2020.11.21 12:59:55pm",
+        "trophies": [],
+        "upvotes": 4,
+        "comments": [
+            {
+                "commentID": "comment1",
+                "message": "Man, this some random shit!",
+                "username": "H6N8XS",
+                "datetime": "2020.11.21 01:02:15pm",
+                "trophies": [],
+                "upvotes": 0
+            },
+            {
+                "commentID": "comment2",
+                "message": "Damn son, where would you find this?",
+                "username": "Korom P\u00e1l G\u00e1bor",
+                "datetime": "2020.11.21 01:40:26pm",
+                "trophies": [],
+                "upvotes": 0
+            }
+        ],
+        "id": "5fb90151db4f3"
+    },
+    "5fb90ea1eb090": {
+        "postID": "post2",
+        "title": "Vaporwave",
+        "description": "A E S T H E T I C S",
+        "username": "VIBIN'",
+        "subreddit": "r\/vaporwave",
+        "datetime": "2020.11.21 01:55:29pm",
+        "trophies": [],
+        "upvotes": 0,
+        "comments": [
+            {
+                "commentID": "comment3",
+                "message": "L o o k  a t  a l l  t h a t  c o n s u m e r  c a p i t a l i s m ,  s o n !",
+                "username": "ArizonaGreenTea",
+                "datetime": "2020.11.21 01:57:05pm",
+                "trophies": [],
+                "upvotes": 0
+            }
+        ],
+        "id": "5fb90ea1eb090"
+    },
+    "5fb91d55ea3dd": {
+        "postID": "post3",
+        "title": "F\u00f3rum teszt",
+        "description": "M\u0171k\u00f6dik az egyes\u00edtett f\u00f3rum.",
+        "username": "realkrazyxl",
+        "subreddit": "r\/phph\u00e1zi",
+        "datetime": "2020.11.21 02:57:22pm",
+        "trophies": [],
+        "upvotes": 0,
+        "comments": [
+            {
+                "commentID": "comment4",
+                "message": "Az fasza!",
+                "username": "Korom P\u00e1l G\u00e1bor",
+                "datetime": "2020.11.21 03:02:41pm",
+                "trophies": [],
+                "upvotes": 0
+            }
+        ],
+        "id": "5fb91d55ea3dd"
+    },
+    "5fc6638a4860c": {
+        "postID": "post4",
+        "title": "Bejelentkez\u00e9s teszt",
+        "description": "Most m\u00e1r nem kell k\u00fcl\u00f6n felhszn\u00e1l\u00f3nevet megadni posztol\u00e1shoz, mert automatikusan kiolvassa a $_SESSION-b\u0151l!",
+        "username": "realkrazyxl",
+        "subreddit": "r\/forum_login",
+        "datetime": "2020.12.01 04:36:44pm",
+        "trophies": [],
+        "upvotes": 0,
+        "comments": [
+            {
+                "commentID": "comment5",
+                "message": "\u00c9s m\u00e1r a kommentel\u00e9shez sem!",
+                "username": "realkrazyxl",
+                "datetime": "2020.12.01 04:40:25pm",
+                "trophies": [],
+                "upvotes": 0
+            }
+        ],
+        "id": "5fc6638a4860c"
+    },
+    "5fc669c4e1b67": {
+        "postID": "post5",
+        "title": "Regisztr\u00e1ci\u00f3 teszt",
+        "description": "Mostant\u00f3l \u00faj felhaszn\u00e1l\u00f3k is regisztr\u00e1lhatnak!",
+        "username": "NewPlayer",
+        "subreddit": "r\/new_users",
+        "datetime": "2020.12.01 05:04:28pm",
+        "trophies": [],
+        "upvotes": 0,
+        "comments": [],
+        "id": "5fc669c4e1b67"
+    },
+    "5fd745b431b82": {
+        "postID": "post6",
+        "title": "Bejelentkez\u00e9s \u00e9s posztol\u00e1s teszt",
+        "description": "Mostant\u00f3l k\u00fcl\u00f6n php script-ekb\u0151l fut a bejelentkez\u00e9s \u00e9s a posztol\u00e1s!",
+        "username": "realkrazyxl",
+        "subreddit": "r\/separatecomponents",
+        "datetime": "2020.12.14 11:58:08am",
+        "trophies": [],
+        "upvotes": 0,
+        "comments": [
+            {
+                "commentID": "comment6",
+                "message": "\u00c9s a kommentel\u00e9s is!",
+                "username": "realkrazyxl",
+                "datetime": "2020.12.14 12:00:04pm",
+                "trophies": [],
+                "upvotes": 0
+            },
+            {
+                "commentID": "comment7",
+                "message": "\u00c9s a regisztr\u00e1ci\u00f3 is!",
+                "username": "NewGuy",
+                "datetime": "2020.12.14 12:15:55pm",
+                "trophies": [],
+                "upvotes": 0
+            }
+        ],
+        "id": "5fd745b431b82"
+    }
+}
