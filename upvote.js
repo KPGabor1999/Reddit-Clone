@@ -4,7 +4,7 @@ upvoteBtns.forEach(upvoteBtn => upvoteBtn.addEventListener('click', upvotePost))
 async function upvotePost(){
 
     //AJAX-szal elküldesz egy GET kérést az upvote-olást intéző php szkript-nek felparaméterezve
-    const request = await fetch(`http://localhost/Reddit%20kl%C3%B3n/forum_separate_components.php?postId=${this.dataset.postId}`)      //Ezt a hivatkozást nem frissíti a böngésző és ha megtenné a postID-t akkor is undefined-nak hiszi.
+    const request = await fetch(`http://localhost/Reddit-Clone/forum_separate_components.php?postId=${this.dataset.postId}`)      //Ezt a hivatkozást nem frissíti a böngésző és ha megtenné a postID-t akkor is undefined-nak hiszi.
     
     //debuggolásként kiírod a poszt id-ját és az upvote-ok számát
     const reply = await request.json()
