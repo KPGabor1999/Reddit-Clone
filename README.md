@@ -12,3 +12,5 @@ A fórum szimuláció funkciói:
 </ul>
 
 Használati utasítás: A forum_separate_components.php-t kell XAMPP-on keresztül futtatni.
+
+Bemutató videó itt: https://youtu.be/H2jYBgf-qhQ
